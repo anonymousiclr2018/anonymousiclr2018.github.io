@@ -111,6 +111,8 @@ Figure 5: Comparison of the error with different content-based representations f
 
 # Experiment 4.3: Comparison of examples with best implementation.
 
+The table below gives which content and style representation combinations work best for different types of examples, with a corresponding style transfer pair in the below examples that works best with that combination of loss terms
+
 <body>
 <center>
 <img src="/table_for_examples.png">
