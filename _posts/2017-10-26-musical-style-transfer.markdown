@@ -10,10 +10,9 @@ This blog post is a supplement to the paper, "'Style' Transfer for Musical Audio
 <!--4. A naive (no prior training for source audio) method for source separation using this framework.-->
 
 # Experiment 4.1: Musical Texture Generation
-
+Figure 4: Columns 1 and 3: comparison of inter-onset lengths distribution and KL divergence from the source distribution for a texture generation example as the effective receptive field increases in time. Columns 2 and 4: mean local autocorrelation plots showing the increase in hierarchical rhythmic structure of the audio without any significant increase in the maximum cross-correlation value.
 <body>
-	<center> Figure 4: Columns 1 and 3: comparison of inter-onset lengths distribution and KL divergence from the source distribution for a texture generation example as the effective receptive field increases in time. Columns 2 and 4: mean local autocorrelation plots showing the increase in hierarchical rhythmic structure of the audio without any significant increase in the maximum cross-correlation value.
-	<img src="/rhythmic_structure_plots.PNG" width="20">
+<img src="/rhythmic_structure_plots.PNG">
 </center>
 </body>	
 
