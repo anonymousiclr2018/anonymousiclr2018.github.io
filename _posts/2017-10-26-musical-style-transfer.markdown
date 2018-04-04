@@ -12,6 +12,7 @@ This blog post is a supplement to the paper, "'Style' Transfer for Musical Audio
 # Experiment 4.1: Musical Texture Generation
 Figure 4: Columns 1 and 3: comparison of inter-onset lengths distribution and KL divergence from the source distribution for a texture generation example as the effective receptive field increases in time. Columns 2 and 4: mean local autocorrelation plots showing the increase in hierarchical rhythmic structure of the audio without any significant increase in the maximum cross-correlation value.
 <body>
+<center>
 <img src="/rhythmic_structure_plots.PNG">
 </center>
 </body>	
@@ -58,10 +59,10 @@ Figure 4: Columns 1 and 3: comparison of inter-onset lengths distribution and KL
 </center>
 
 # Experiment 4.2: Testing Key Invariance
-
+Figure 5: Comparison of the error with different content-based representations for a task where the content and style audio is exactly the same except for key. The x-axis represents varying semi-tone offsets in musical representation. The first point on the left of 0 semi-tone offset represents a trivial problem where both content and style are exactly the same signals. We plot the error in the log-magnitude STFT representations to show the overall signal error.
 <body>
-	<center> Figure 5: Comparison of the error with different content-based representations for a task where the content and style audio is exactly the same except for key. The x-axis represents varying semi-tone offsets in musical representation. The first point on the left of 0 semi-tone offset represents a trivial problem where both content and style are exactly the same signals. We plot the error in the log-magnitude STFT representations to show the overall signal error.
-	<img src="/updated_content_plot.png">
+<center>
+<img src="/updated_content_plot.png">
 </center>
 </body>	
 
@@ -109,6 +110,13 @@ Figure 4: Columns 1 and 3: comparison of inter-onset lengths distribution and KL
 </center>
 
 # Experiment 4.3: Comparison of examples with best implementation.
+
+<body>
+<center>
+<img src="/table_for_examples.png">
+</center>
+</body>
+
 
 <center>
 
