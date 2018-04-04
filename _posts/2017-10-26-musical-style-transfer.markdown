@@ -6,7 +6,7 @@ categories: jekyll update
 author:
 - anonymous
 ---
-This blog post is a supplement to the submission to ICLR 2018, "'Style' Transfer for Musical Audio Using Multiple Time-Frequency Representations". 
+This blog post is a supplement to the paper, "'Style' Transfer for Musical Audio Using Multiple Time-Frequency Representations". 
 <!--4. A naive (no prior training for source audio) method for source separation using this framework.-->
 
 # Experiment 4.1: Musical Texture Generation
